@@ -15,6 +15,4 @@ Running the project
 * Import database from store.sql file.
 * Run WAMP and open web page from browser: http://localhost/LifestyleStore/index.php
 
-Project Developer
-----------------
-Sajal Agrawal
+
